@@ -21,4 +21,4 @@ double notap3 = t3 * (z / 100);
 
 double promediofinal = (notap1 + notap2 + notap3);
 
-Console.WriteLine("Tu promedio final es " + promediofinal + " :D");
+Console.WriteLine("Tu promedio final es " + promediofinal + " buen trabajo");
