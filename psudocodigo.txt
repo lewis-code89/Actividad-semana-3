@@ -1,1 +1,13 @@
+INICIO
+LEER nota1, peso1
+LEER nota2, peso2
+LEER nota3, peso3
+
+notaPonderada1 = nota1 * peso1/100
+notaPonderada2 = nota2 * peso2/100
+notaPonderada3 = nota3 * peso3/100
+
+PromedioFinal = notaPonderada1 + notaPonderada2 + notaPonderada3
+ESCRIBIR PromedioFinal
+FIN
 
